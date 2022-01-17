@@ -9,3 +9,4 @@
 //}
 const a=1; b=2;
 console.log(result = (a + b < 4) ? true : false);
+//----- -----
